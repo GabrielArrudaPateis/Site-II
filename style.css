@@ -5,15 +5,15 @@ body{
 }
 h1{
     font-size: xx-large;
-    color: rgb(255, 255, 255);
+    color: rgb(250, 171, 0);
 }
 h3{
     font-size: large;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 187, 0);
 }
 h2{
     font-size: x-large;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 196, 0);
 }
 .CHT2{
     width: 15%;
